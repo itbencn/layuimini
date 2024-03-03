@@ -1,13 +1,16 @@
-layuimini后台模板
+layuimini后台模板 适配版
 ===============
 # 项目介绍
 最简洁、清爽、易用的layui后台框架模板。
 
-项目会不定时进行更新，建议star和watch一份。
+本项目是基于[layuimini原版(layui2.5.4-)](https://github.com/zhongshaofa/layuimini)为基础适配layui核心2.6.0+而来
 
-技术交流QQ群：[716235988](https://jq.qq.com/?_wv=1027&k=7TMTuAJv)、[1165301500🈵](https://jq.qq.com/?_wv=1027&k=TYKWy5Oo)、[667813249🈵](https://jq.qq.com/?_wv=1027&k=5lyiE2Q)、[561838086🈵](https://jq.qq.com/?_wv=1027&k=5JRGVfe) `加群请备注来源：如gitee、github、官网等`。
+可能还存在其它适配问题 欢迎在原项目或本项目主页issues和pr
+
+本项目仅作为个人需求的优化适配 一切版权归原作者[@zhongshaofa](https://github.com/zhongshaofa)
 
 # 主要特性
+* **适配layui2.6.0+版本,可配合最新的layui开发文档**
 * 界面足够简洁清爽，响应式且适配手机端。
 * 一个接口`几行代码而已`直接初始化整个框架，无需复杂操作。
 * 页面支持多配色方案，可自行选择喜欢的配色。
@@ -19,46 +22,9 @@ layuimini后台模板
 * 支持font-awesome图标选择插件
 
 
-# 代码仓库(iframe 多tab版)
-
-### v2版
- * 在线预览地址：[http://layuimini.99php.cn/iframe/v2/index.html](http://layuimini.99php.cn/iframe/v2/index.html)
- * GitHub仓库地址：[https://github.com/zhongshaofa/layuimini/tree/v2](https://github.com/zhongshaofa/layuimini/tree/v2)
- * Gitee仓库地址：[https://gitee.com/zhongshaofa/layuimini/tree/v2](https://gitee.com/zhongshaofa/layuimini/tree/v2)
-### v1版
-  * 在线预览地址：[http://layuimini.99php.cn/iframe/v1/index.html](http://layuimini.99php.cn/iframe/v1/index.html)
-  * GitHub仓库地址：[https://github.com/zhongshaofa/layuimini/tree/master](https://github.com/zhongshaofa/layuimini/tree/master)
-  * Gitee仓库地址：[https://gitee.com/zhongshaofa/layuimini/tree/master](https://gitee.com/zhongshaofa/layuimini/tree/master)
- 
-# 代码仓库(onepage 单页版)
-
-### v2版
- * 在线预览地址：[http://layuimini.99php.cn/onepage/v2/index.html](http://layuimini.99php.cn/onepage/v2/index.html)
- * GitHub仓库地址：[https://github.com/zhongshaofa/layuimini/tree/v2-onepage](https://github.com/zhongshaofa/layuimini/tree/v2-onepage)
- * Gitee仓库地址：[https://gitee.com/zhongshaofa/layuimini/tree/v2-onepage](https://gitee.com/zhongshaofa/layuimini/tree/v2-onepage)
- 
-### v1版
- * 在线预览地址：[http://layuimini.99php.cn/onepage/v1/index.html](http://layuimini.99php.cn/onepage/v1/index.html)
- * GitHub仓库地址：[https://github.com/zhongshaofa/layuimini/tree/onepage](https://github.com/zhongshaofa/layuimini/tree/onepage)
- * Gitee仓库地址：[https://gitee.com/zhongshaofa/layuimini/tree/onepage](https://gitee.com/zhongshaofa/layuimini/tree/onepage)
-
-# 下载方式
-
-### iframe v2版
- * GitHub下载命令：`git clone https://github.com/zhongshaofa/layuimini -b v2`
- * Gitee下载命令：`git clone https://gitee.com/zhongshaofa/layuimini -b v2`
-### iframe v1版
- * GitHub下载命令：`git clone https://github.com/zhongshaofa/layuimini -b master`
- * Gitee下载命令：`git clone https://gitee.com/zhongshaofa/layuimini -b master`
-### 单页版 v2版
- * GitHub下载命令：`git clone https://github.com/zhongshaofa/layuimini -b v2-onepage`
- * Gitee下载命令：`git clone https://gitee.com/zhongshaofa/layuimini -b v2-onepage`
-### 单页版 v1版
- * GitHub下载命令：`git clone https://github.com/zhongshaofa/layuimini -b onepage`
- * Gitee下载命令：`git clone https://gitee.com/zhongshaofa/layuimini -b onepage`
-### 发行版地址
-* GitHub发版地址：[https://github.com/zhongshaofa/layuimini/releases](https://github.com/zhongshaofa/layuimini/releases)
-* Gitee发版地址：[https://gitee.com/zhongshaofa/layuimini/releases](https://gitee.com/zhongshaofa/layuimini/releases)
+# 代码仓库
+- [layuimini原版(layui2.5.4-)](https://github.com/zhongshaofa/layuimini)
+- [layuimini适配(layui2.6.0+)](https://github.com/itbencn/layuimini)
  
 # 效果预览
 > 总体预览
@@ -67,7 +33,8 @@ layuimini后台模板
 
 # 使用说明
 
-文档地址：[查看文档](http://layuimini.99php.cn/docs/)
+- layui文档地址：[查看文档](https://www.layui.dev/)
+- layuimini文档地址：[查看文档](http://layuimini.99php.cn/docs/)
 
 # 免责声明
 
@@ -81,9 +48,3 @@ layuimini后台模板
 * 任何单位或个人在阅读本免责声明后，应在《MIT 开源许可证》所允许的范围内进行合法的发布、传播和使用`layuimini`后台模板框架等行为，若违反本免责声明条款或违反法律法规所造成的法律责任(包括但不限于民事赔偿和刑事责任），由违约者自行承担。
 * 如果本声明的任何部分被认为无效或不可执行，其余部分仍具有完全效力。不可执行的部分声明，并不构成我们放弃执行该声明的权利。
 * 本开源项目有权随时对本声明条款及附件内容进行单方面的变更，并以消息推送、网页公告等方式予以公布，公布后立即自动生效，无需另行单独通知；若您在本声明内容公告变更后继续使用的，表示您已充分阅读、理解并接受修改后的声明内容。
-
- # 捐赠支持
- 
-开源项目不易，若此项目能得到你的青睐，可以捐赠支持作者持续开发与维护，感谢所有支持开源的朋友。
-
- ![Image text](https://chung-common.oss-cn-beijing.aliyuncs.com/donate_qrcode.png)
